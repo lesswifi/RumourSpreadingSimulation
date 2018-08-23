@@ -1,11 +1,11 @@
 
 [Simulation Description](https://www.inf.ed.ac.uk/teaching/courses/ds/assignment1718/DSAssignment-2017-18.pdf)
 
--source: src/main/java
--build: build
--dependency: jars
--log: the output.txt file will be in this directory
--run.sh: see below
+source: src/main/java
+build: build
+dependency: jars
+log: the output.txt file will be in this directory
+run.sh: see below
 
 
 To compile, 
