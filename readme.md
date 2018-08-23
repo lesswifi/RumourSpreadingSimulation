@@ -7,7 +7,6 @@ dependency: jars
 log: the output.txt file will be in this directory
 run.sh: see below
 
-
 To compile, 
 ```
 > ./run.sh compile
