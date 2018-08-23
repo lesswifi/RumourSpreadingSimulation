@@ -1,3 +1,5 @@
+[Simulation Description](https://www.inf.ed.ac.uk/teaching/courses/ds/assignment1718/DSAssignment-2017-18.pdf)
+
 Part A
 
 -source: src/main/java
